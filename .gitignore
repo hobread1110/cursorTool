@@ -1,0 +1,42 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE / editor
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.swp
+*.swo
+*~
+
+# Build / output
+build/
+dist/
+out/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# Python (if used)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Node (if used)
+node_modules/
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+.cache/
