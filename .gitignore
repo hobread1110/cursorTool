@@ -36,6 +36,7 @@ venv/
 node_modules/
 
 # Logs & temp
+cma_free_log.csv
 *.log
 *.tmp
 *.temp
